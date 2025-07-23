@@ -5,7 +5,10 @@ export default function Hero() {
       className="min-h-screen flex flex-col justify-center items-center bg-primary text-white text-center px-4 sm:px-8"
     >
       <div className="max-w-3xl">
-        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold mb-6 leading-tight">
+        <h1
+          className="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold mb-6 leading-tight"
+          data-aos="fade-up"
+        >
           Hi, I’m Zach Sewell.
           <br />I build full-stack apps & AI solutions.
         </h1>

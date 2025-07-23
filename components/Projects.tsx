@@ -49,7 +49,13 @@ export default function Projects() {
   return (
     <section id="projects" className="py-20 px-6 bg-white text-[#1C1917]">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-4xl font-heading text-center mb-12">Projects</h2>
+        <h2
+          className="text-4xl font-heading text-center mb-12"
+          data-aos="fade-up"
+          data-aos-delay="100"
+        >
+          Projects
+        </h2>
         <div className="grid gap-8 sm:grid-cols-2">
           {projects.map((project) => (
             <div

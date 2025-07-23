@@ -6,6 +6,7 @@ import Skills from "@/components/Skills";
 import Resume from "@/components/Resume";
 import Contact from "@/components/Contact";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <>
@@ -27,6 +28,7 @@ export default function Home() {
         <Resume />
         <Contact />
       </main>
+      <Footer />
     </>
   );
 }
