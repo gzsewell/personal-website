@@ -16,8 +16,8 @@ const projects = [
       "AI-powered email assistant that crafts personalized job applications.",
     tech: ["Next.js", "React.js", "Node.js", "OpenAI", "PostgreSQL"],
     github: "https://github.com/gzsewell/prorespond-agent",
-    demo: "https://prorespond.live", // if deployed
-    image: "/images/prorespond.png", // optional
+    demo: "https://aiemailagent.netlify.app/", // if deployed
+    image: "/images/aiemailagent.PNG", // optional
   },
   {
     title: "Food Celebrator Social App",
@@ -32,6 +32,7 @@ const projects = [
     title: "Cinetrails Movie Database",
     description: "Netflix clone showcasing my ability to manipulate APIs",
     tech: ["React.js", "Vite", "Node.js", "Express.js"],
+    demo: "https://cinetrailmoviedatabase.netlify.app/",
     image: "",
   },
   {
