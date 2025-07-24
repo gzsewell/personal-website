@@ -7,9 +7,9 @@ type FooterProps = {
 
 export default function Footer() {
   return (
-    <footer className="bg-[#FFF7ED] text-[#1C1917] py-8 mt-12">
+    <footer className="bg-white text-[#1C1917] py-8 mt-12">
       <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-center sm:text-left">
-        <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Zach Sewell. All rights reserved.</p>
 
         <div className="flex items-center space-x-4">
           <a

@@ -16,6 +16,7 @@ import {
   SiHuggingface,
   SiSqlite,
   SiAmazonwebservices,
+  SiJsonwebtokens,
 } from "react-icons/si";
 
 const skills = [
@@ -25,6 +26,7 @@ const skills = [
       { name: "React", icon: <FaReact /> },
       { name: "Tailwind CSS", icon: <SiTailwindcss /> },
       { name: "Typescript", icon: <SiTypescript /> },
+      { name: "JWT Authentication", icon: <SiJsonwebtokens /> },
     ],
   },
   {

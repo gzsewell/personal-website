@@ -11,7 +11,7 @@ type Project = {
 
 const projects = [
   {
-    title: "ProRespond Agent",
+    title: "AI Email Agent",
     description:
       "AI-powered email assistant that crafts personalized job applications.",
     tech: ["Next.js", "React.js", "Node.js", "OpenAI", "PostgreSQL"],
@@ -20,7 +20,7 @@ const projects = [
     image: "/images/prorespond.png", // optional
   },
   {
-    title: "Food Celebrator",
+    title: "Food Celebrator Social App",
     description:
       "Full stack application Instagram clone with more creative touch.",
     tech: ["React.js", "Vite", "Node.js", "Express.js", "PostgraSQL"],
@@ -29,13 +29,13 @@ const projects = [
     image: "/images/foodcelebrator.PNG",
   },
   {
-    title: "Cinetrails Netflix Clone",
+    title: "Cinetrails Movie Database",
     description: "Netflix clone showcasing my ability to manipulate APIs",
     tech: ["React.js", "Vite", "Node.js", "Express.js"],
     image: "",
   },
   {
-    title: "Book Buddies",
+    title: "Book Buddies Library App",
     description:
       "A library app that pull information from an API and leverages authentication to manage users ability to read checked out books.",
     tech: ["React.js", "Vite", "Node.js", "Express.js"],
