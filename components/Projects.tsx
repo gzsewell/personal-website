@@ -33,7 +33,7 @@ const projects = [
     description: "Netflix clone showcasing my ability to manipulate APIs",
     tech: ["React.js", "Vite", "Node.js", "Express.js"],
     demo: "https://cinetrailmoviedatabase.netlify.app/",
-    image: "",
+    image: "/images/cinetrailmoviedatabase.PNG",
   },
   {
     title: "Book Buddies Library App",
