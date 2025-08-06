@@ -44,9 +44,10 @@ export default function About() {
           that make people more productive. I’m actively looking for new
           opportunities to grow and contribute. I am specifically interested in{" "}
           <span className="font-semibold">Agentic AI</span>. The potential that
-          agents have is truly astounding. Because Agentic AI is still in it's
-          infant stages there is much to be desired around security and privacy.
-          Those are the types of complex problems I love to explore.
+          agents have is truly astounding. Because Agentic AI is still in
+          it&rsquo;s infant stages there is much to be desired around security
+          and privacy. Those are the types of complex problems I love to
+          explore.
         </p>
         My past experiance in{" "}
         <span className="font-semibold">
