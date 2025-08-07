@@ -33,9 +33,9 @@ export default function About() {
           <span className="font-semibold">PostgreSQL</span>, and deployed on{" "}
           <span className="font-semibold">Render</span>. I am very proud of the
           role I played on the capstone team. I was essentially the{" "}
-          <span>SRUM</span>manager keeping up with the Konbon board. It was a
-          challanging experiance that has helped expand my real world
-          experiance.
+          <span>SCRUM</span>manager keeping up with the Konbon board. It was a
+          challanging experience that has helped expand my real world
+          experience.
         </p>
         <p className="text-lg font-body leading-relaxed">
           I love to learn, build, and collaborate. My current interests include
@@ -53,7 +53,7 @@ export default function About() {
         <span className="font-semibold">
           Digital Marketing, UX/UI design, Enterprise Hybrid and Cloud Storage
         </span>
-        , has put me in a position to better understand the fool scope of
+        , has put me in a position to better understand the full scope of
         development
       </div>
     </section>
