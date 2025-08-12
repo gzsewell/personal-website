@@ -40,7 +40,7 @@ const projects = [
     description:
       "A library app that pull information from an API and leverages authentication to manage users ability to read checked out books.",
     tech: ["React.js", "Vite", "Node.js", "Express.js"],
-    image: "",
+    image: "/images/bookbuddy.PNG",
   },
 
   // Add more projects here
