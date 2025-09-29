@@ -14,7 +14,7 @@ export default function Resume({ resumeUrl = "/resume.pdf" }: Props) {
         {/* Download Button */}
         <div className="text-center mb-12">
           <a
-            href="/2025 GZS Resume.pdf"
+            href="/Web Developer Resume.pdf"
             download
             className="inline-block bg-[#1C1917] text-white px-6 py-3 rounded-lg shadow hover:bg-[#292524] transition"
           >
