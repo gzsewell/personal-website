@@ -49,12 +49,14 @@ export default function About() {
           and privacy. Those are the types of complex problems I love to
           explore.
         </p>
-        My past experiance in{" "}
-        <span className="font-semibold">
-          Digital Marketing, UX/UI design, Enterprise Hybrid and Cloud Storage
-        </span>
-        , has put me in a position to better understand the full scope of
-        development
+        <p className="text-lg font-body leading-relaxed">
+          My past experience in{" "}
+          <span className="font-semibold">
+            Digital Marketing, UX/UI design, Enterprise Hybrid and Cloud Storage
+          </span>
+          , has put me in a position to better understand the full scope of
+          development
+        </p>
       </div>
     </section>
   );
